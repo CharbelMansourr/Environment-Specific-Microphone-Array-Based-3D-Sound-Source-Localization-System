@@ -13,4 +13,4 @@ three-dimensional Cartesian system. Extracted features are exploited by a deep a
 output the sound source coordinates. The established localization system is evaluated in three different environments simulated to provide different acoustic conditions.
 Results shows that the localization is performed efficiently with an error of 0.019 m at it's best. They also show that using both energy and time of arrival differences leads to better results than using only one of them as input to the neural network.
 
-The Dataset was built from scratch using matlab and the AI model is developed using python
+The Dataset was built from scratch using matlab(125 GB) and the AI model is developed using python
